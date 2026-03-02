@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cognitive Digital Twin: Learning Orchestrator (v2.2)
 
 An AI-driven "Cognitive Digital Twin" designed to proactively manage student learning by detecting cognitive fatigue, knowledge decay, and learning plateaus. The system provides real-time interventions, including adaptive quizzes and mandatory recovery breaks, visualized through a futuristic dashboard.
@@ -64,3 +65,6 @@ The project implements a **Closed-Loop Pedagogical System**:
 
 ## 📄 License
 This project is for educational and demonstration purposes as part of an AI/ML Engineering portfolio.
+=======
+# Cognitive-Digital-Twin
+>>>>>>> eaebbb9c98481d9a04b634a2ac07ffa22cc80e66
